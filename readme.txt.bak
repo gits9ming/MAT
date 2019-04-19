@@ -5,6 +5,3 @@
 					postgresql作为数据库
 					jenkins作为自动化部署工具
 					jemter作为实现工具					
-期望实现：docker 集群管理
-					postgresql集群管理
-					spring boot云管理（*）
