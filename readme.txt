@@ -4,5 +4,4 @@
 实现环境：python作为开发语言
 					postgresql作为数据库
 					jenkins作为自动化部署工具
-					jemter作为实现工具
-					
+					jemter作为实现工具					
