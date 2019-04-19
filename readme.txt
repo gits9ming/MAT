@@ -8,3 +8,10 @@
 期望实现：docker 集群管理
 					postgresql集群管理
 					spring boot云管理（*）
+数据库设计：库名：MATdb
+						表：testcase:用例表  列：tcid name descripte step expect date author other
+						表：result:测试结果  列：resid bug descripter caseid tools date runner
+						表：user:用户				 列：usrid usrname 
+						表：file:文件				 列：fid tools path use
+脚本设计：文件读取
+					数据库处理						
